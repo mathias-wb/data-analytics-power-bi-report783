@@ -20,7 +20,7 @@ The report presents:
 - A high-level business summary tailored for C-suite executives
 - Insights into the company's highest value customers segmented by sales region
 - A detailed analysis of top-performing products categorised by type against their sales targets
-- A visually appealing map visual that spotlights the performance metrics of their retail outlets across different territories.
+- A visually appealing map visual that spotlights the performance metrics of their retail outlets across different territories
 
 ## Project Structure
 
