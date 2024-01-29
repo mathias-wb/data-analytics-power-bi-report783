@@ -1,6 +1,7 @@
 # Data Analytics Power BI Report
 ## Table of Contents
-1. [Project Description](#Project%20Description)
-2. ...
+1. [Project Description](#project-description)
 
 ## Project Description
+### Project Goal
+### Learning Outcomes
