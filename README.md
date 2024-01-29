@@ -23,6 +23,20 @@ The report presents:
 - A visually appealing map visual that spotlights the performance metrics of their retail outlets across different territories
 
 ## Project Structure
+```
+├── Q&A/ 
+│   ├── questions.txt
+|   ├── question_1.sql
+|   ├── question_1.csv
+|   └── question_2.sql ...
+├── navigation_bar_images/
+│   ├── UI Icon #1.png
+│   ├── UI Icon #1 Hover.png 
+|   └── UI Icon #2.png ...
+├── Power BI Project.pbix
+├── LICENSE.txt
+└── README.md
+```
 
 ## Setup
 
