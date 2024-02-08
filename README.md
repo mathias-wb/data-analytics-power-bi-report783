@@ -3,7 +3,6 @@
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Project Structure](#project-structure)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 
@@ -37,8 +36,6 @@ The report presents:
 ├── LICENSE.txt
 └── README.md
 ```
-
-## Setup
 
 ## Usage
 
