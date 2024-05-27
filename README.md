@@ -37,6 +37,5 @@ The report presents:
 └── README.md
 ```
 
-## Usage
-
 ## Screenshots
+
