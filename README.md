@@ -38,4 +38,4 @@ The report presents:
 ```
 
 ## Screenshots
-[Exectutive Summary](1-Executive%20Summary.png)
+![Exectutive Summary](1-Executive%20Summary.png)
