@@ -86,8 +86,8 @@ CREATE VIEW summary AS
     JOIN dim_product AS p ON o.product_code = p.product_code
     GROUP BY s.store_type;
 ```
-**|store_type|total_revenue|percentage_of_revenue|order_count|**
-|----------|-------------|---------------------|-----------|
+|**store_type**|**total_revenue**|**percentage_of_revenue**|**order_count**|
+|--------------|-----------------|-------------------------|---------------|
 |Local|4200344.27|65.02|78409|
 |Mall Kiosk|705645.90|10.92|13142|
 |Outlet|508029.41|7.86|9207|
