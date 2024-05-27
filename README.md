@@ -39,3 +39,7 @@ The report presents:
 
 ## Screenshots
 ![Exectutive Summary](1-Executive%20Summary.png "Executive Summary")
+![Customer Detail](2-Customer%20Detail.png "Customer Detail")
+![Product Detail](3-Product%20Detail.png "Product Detail")
+![Stores Map](4-Stores%20Map.png "Stores Map")
+![Stores Detail](5-Stores%20Detail.png "Stores Detail")
