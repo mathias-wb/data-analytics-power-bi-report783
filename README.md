@@ -44,7 +44,7 @@ SELECT SUM(staff_numbers)
 FROM dim_store
 WHERE country = 'UK';
 ```
-> 13273
+> **13273**
 
 ### Q2. Which month in 2022 has had the highest revenue?
 ```postgresql
@@ -57,7 +57,7 @@ GROUP BY d.month_name
 ORDER BY SUM(p.sale_price * o.product_quantity) DESC
 LIMIT 1;
 ```
-> August
+> **August**
 
 ### Q3. Which German store type had the highest revenue for 2022?
 ```postgresql
@@ -72,7 +72,7 @@ GROUP BY s.store_type
 ORDER BY SUM(p.sale_price * o.product_quantity) DESC
 LIMIT 1;
 ```
-> Local
+> **Local**
 
 ### Q4. Create a view where the rows are the store types and the columns are the total revenue, percentage of total revenue and the count of orders
 ```postgresql
@@ -86,7 +86,7 @@ CREATE VIEW summary AS
     JOIN dim_product AS p ON o.product_code = p.product_code
     GROUP BY s.store_type;
 ```
-|store_type|total_revenue|percentage_of_revenue|order_count|
+**|store_type|total_revenue|percentage_of_revenue|order_count|**
 |----------|-------------|---------------------|-----------|
 |Local|4200344.27|65.02|78409|
 |Mall Kiosk|705645.90|10.92|13142|
@@ -107,7 +107,7 @@ GROUP BY p.category
 ORDER BY SUM((p.sale_price - p.cost_price) * o.product_quantity) DESC
 LIMIT 1;
 ```
-> Homeware
+> **Homeware**
 
 ## Screenshots
 ### Executive Summary
